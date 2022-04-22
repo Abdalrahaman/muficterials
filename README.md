@@ -1,9 +1,9 @@
-# muficterials
+# Muficterials
 Specially for student of FCI to solve algorithms for some of their materials.
 
 ![MuficTerials](https://user-images.githubusercontent.com/35526918/164707570-3dbc407d-6fc7-4286-9cbb-236334225d6c.png)
 
-# material description
+# Material Description
 There are two material currently available :
 * Operating System
   - Scheduling Algorithms
